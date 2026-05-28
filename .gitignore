@@ -1,0 +1,17 @@
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# 隐私保护：不上传任何数据文件
+*.xlsx
+*.xls
+*.csv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
